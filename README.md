@@ -1,0 +1,2 @@
+# Strategic-Inventory-Optimization-Supply-Chain-Risk-Mitigation
+Developed a Python-based Logistics System to optimize 1,000+ SKUs using ABC Analysis and automated replenishment logic. I engineered a proactive risk radar for stockouts and expiration (FEFO strategy), transforming raw data into actionable insights that reduce capital tie-up and operational waste. Ideal for data-driven supply chain management
